@@ -1,6 +1,6 @@
 # Implicit-Discourse-Relation-Recognition
 
-Code used to obtain the results presented in the paper "Benchmarking machine learning algorithms for adaptive quantum phase estimation with noisy intermediate-scale quantum sensors" published in EPJ Quantum Technology on June 3, 2021.
+Code used to obtain the results presented in the paper "Exploring Soft-Label Training for Implicit Discourse Relation Recognition" published in the Proceedings of the 5th Workshop on Computational Approaches to Discourse (CODI 2024).
 
 > https://
 
